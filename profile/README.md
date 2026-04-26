@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Rust-0D1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-DevSecOps%20%2F%20CTI-2980B9?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-2980B9?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-C0392B?style=flat-square&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
 </p>
 
