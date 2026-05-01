@@ -23,6 +23,7 @@ jobs:
           extras_css: |
             .footer, [data-name="metadata"] { display: none !important; }
             .avatar, image.avatar { display: none !important; }
+            [data-name="header"] .field:has(svg.octicon-people) { display: none !important; }
           config_timezone: America/Sao_Paulo
           config_padding: 0, 8 + 11%
           plugin_languages: yes
@@ -31,7 +32,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_followup: yes
           plugin_followup_sections: repositories
-          plugin_people: yes
-          plugin_people_types: members
-          plugin_people_size: 28
-          plugin_people_limit: 24
