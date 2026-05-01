@@ -23,7 +23,8 @@ jobs:
           extras_css: |
             .footer, [data-name="metadata"] { display: none !important; }
             .avatar, image.avatar { display: none !important; }
-            [data-name="header"] .field:has(svg.octicon-people) { display: none !important; }
+            h1 { display: none !important; }
+            .field:has(path[d^="M5.5 3.5"]) { display: none !important; }
           config_timezone: America/Sao_Paulo
           config_padding: 0, 8 + 11%
           plugin_languages: yes
